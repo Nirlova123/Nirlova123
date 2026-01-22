@@ -17,7 +17,7 @@
 - 🌱 Continuously learning and improving my technical skillset
 - 🤝 Open to **collaboration and open-source contributions**
 
-📍 **Location:** Berhampur, Odisha  
+📍 **Location:** Bengaluru, Karnataka
 🔗 **GitHub:** [github.com/Nirlova123](https://github.com/Nirlova123)  
 🔗 **LinkedIn:** [linkedin.com/in/nirlova-panda](https://www.linkedin.com/in/nirlova-panda)
 
